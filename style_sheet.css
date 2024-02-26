@@ -1,0 +1,27 @@
+
+body {
+  font-family: monospace;
+  margin: 2em;
+  width: 100%;
+  height: 100%;
+  background: rgb(228,244,225);
+
+a{
+
+  font-size: 25px;
+  color: rebeccapurple;
+}
+
+h1 {
+ 
+   color:#568C82 ;
+  font-size: 48pt;
+}
+.special-h2{
+  margin-top:0;
+}
+li {
+  color:#568C82 ;
+  font-size: 18pt;
+/*   margin-top:0; */
+}
